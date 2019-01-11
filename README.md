@@ -8,8 +8,6 @@ Open DNS Protect is a open source DNS Server use Pi Hole project and have dedica
 * Public is for users to look video and download but no ads and no malware website.
 * **What is Enterprise DNS ?**
 * Enterprise is for Enterprises no ads and no malware website same too public but have more restrictions.
-* **Not IPv6 ?**
-* Actually no have activated IPv6.
 
 
 ### List of DNS Servers
