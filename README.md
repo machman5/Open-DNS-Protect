@@ -1,8 +1,8 @@
 ![readme](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkwMdUS3pMKSHZWS4e0WFAauziky2T3zqu6Wu-MJ74dG9TiFKK)
 
-# What is DNS Protect ?
+# What is Open DNS Protect ?
 
-DNS Protect is a open source DNS Servers use Pi Hole project and have dedicated servers for you but is free.
+Open DNS Protect is a open source DNS Server use Pi Hole project and have dedicated servers for you but is free.
 
 * **What is Public DNS ?**
 * Public is for users to look video and download but no ads and no malware website.
