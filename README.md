@@ -9,6 +9,10 @@ Open DNS Protect is a free-to-use DNS server that use the open source project Pi
 * **What is Enterprise DNS?**
 * Enterprise DNS is the same as the public server except that it does have more restrictions such as blocking NSFW website.
 
+* **How to Protect Phones?**
+* With https://play.google.com/store/apps/details?id=com.frostnerd.dnschanger
+* Or https://play.google.com/store/apps/details?id=com.burakgon.dnschanger
+
 
 ### List of DNS Servers
 
